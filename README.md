@@ -2,7 +2,7 @@
 
 This command-line program can extract derivational morphology from raw lexical data and use these patterns to cluster related word forms.
 
-The .jar file can be downloaded [here](https://github.com/tdaneyko/colexification/releases/download/1.0/colex.jar).
+The .jar file can be downloaded [here](https://github.com/tdaneyko/colexification/releases/download/v1.0/colex.jar).
 
 ![Derivational cluster of the Arabic noun ʕamal](example-clusters/ar-0.png)
 
