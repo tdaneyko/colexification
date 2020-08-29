@@ -4,7 +4,7 @@ This command-line program can extract derivational morphology from raw lexical d
 
 The .jar file can be downloaded [here](https://github.com/tdaneyko/colexification/releases/download/1.0/colex.jar).
 
-![Derivational cluster of the Arabic noun ħaml](example-clusters/ar-2.png)
+![Derivational cluster of the Arabic noun ʕamal](example-clusters/ar-0.png)
 
 
 ## Usage
