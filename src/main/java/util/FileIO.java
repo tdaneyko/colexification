@@ -23,6 +23,7 @@ public class FileIO {
         }
         catch (FileNotFoundException e) {
             e.printStackTrace();
+            System.exit(1);
         }
     }
 
@@ -39,6 +40,7 @@ public class FileIO {
         }
         catch (FileNotFoundException e) {
             e.printStackTrace();
+            System.exit(1);
         }
     }
 
@@ -125,6 +127,7 @@ public class FileIO {
         }
         catch (IOException e) {
             e.printStackTrace();
+            System.exit(1);
         }
         return data;
     }
@@ -172,6 +175,7 @@ public class FileIO {
             }
         } catch (IOException e) {
             e.printStackTrace();
+            System.exit(1);
         }
         return patterns;
     }
@@ -190,6 +194,7 @@ public class FileIO {
             }
         } catch (IOException e) {
             e.printStackTrace();
+            System.exit(1);
         }
         return patterns;
     }

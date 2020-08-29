@@ -36,6 +36,7 @@ public class ClusterToGraphConverter {
         }
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
+            System.exit(1);
         }
     }
 
@@ -77,6 +78,7 @@ public class ClusterToGraphConverter {
         }
         catch (IOException | InterruptedException e) {
             e.printStackTrace();
+            System.exit(1);
         }
     }
 
